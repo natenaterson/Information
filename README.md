@@ -23,6 +23,15 @@ Itch.io informaiton:
 https://natenaterson.itch.io/
 These are some of my best projects. 
 Here are some Descriptions of the games:
+### PVP multiplayer
+A 3D multiplayer shooter game. 
+This is a under development game. 
+This game allows people to join and connect to one another and play together in a 3D FPS game.
+### Insect Dude
+A 3D multiplayer game where you can swing around buildings. 
+This is a under development project.
+Some of the code was used from https://www.youtube.com/@DanisTutorials.
+This game allows people join and connect to each other then swing around the map and shoot targets.
 ### Mansion Murder Mystery
 Submission to the Winter Melon Jam 2025.
 A 3 day game design challenge.
